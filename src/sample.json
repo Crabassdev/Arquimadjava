@@ -1,0 +1,23 @@
+[
+    {
+        "idCliente":"1",
+        "nombre":"Alina",
+        "direccion":"Cll 93-87",
+        "Telefono":"1234567",
+        "mail":"alina@ali.com"
+    },
+    {
+        "idCliente":"2",
+        "nombre":"Mr Bee",
+        "direccion":"Av 68-44",
+        "Telefono":"0987654",
+        "mail":"mrbee@bee.com"
+    },
+    {
+        "idCliente":"3",
+        "nombre":"Leonidas",
+        "direccion":"Trans 72-88",
+        "Telefono":"1029386",
+        "mail":"leo@le.com"
+    }
+]
